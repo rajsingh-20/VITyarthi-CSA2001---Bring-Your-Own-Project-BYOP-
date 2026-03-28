@@ -45,7 +45,7 @@ Make sure you have the following installed on your computer:
 ■ Installation & Setup
 
 Step 1 — Clone the repository
-git clone https://github.com/rajsingh-20feb/exam-stress-detector.git
+git clone https://github.com/rajsingh-20/exam-stress-detector.git
 cd exam-stress-detector
 Step 2 — Install required libraries
 pip install -r requirements.txt
@@ -120,5 +120,5 @@ This project is licensed under the MIT License — free to use, modify, and dist
 
 ■ Author
 Raj Singh — First Year B.Tech Student
-GitHub: https://github.com/rajsingh-20feb
+GitHub: https://github.com/rajsingh-20
 
